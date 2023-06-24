@@ -17,10 +17,10 @@
 ## => Site Settings
 ##############################
 text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
-highlight_theme: tomorrow-night # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
+highlight_theme: tomorrow-night-eighties # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : www.rafaresen.de # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : waid?
+title   : waid - Rafael Resende
 description: > # this means to ignore newlines until "Language & timezone"
   Just another offsec personal blog
 
